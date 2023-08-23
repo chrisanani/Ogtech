@@ -97,7 +97,7 @@ header nav {
 
 #showcase {
   min-height: 400px;
-  background: url('./girl.jpg') no-repeat;
+  background: url('../IMAGE/girl.jpg') no-repeat;
   background-size: cover;
   background-position: center;
   text-align: center;
