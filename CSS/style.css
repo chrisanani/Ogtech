@@ -97,12 +97,13 @@ header nav {
 
 #showcase {
   min-height: 400px;
+  background: #35424a;
   background: url("girl.jpg");
   background-size: cover;
   background-position: center;
   text-align: center;
   color: #ffffff;
-  background-color: black;
+   
   
 }
 
