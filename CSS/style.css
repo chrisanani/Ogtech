@@ -131,6 +131,7 @@ header nav {
 #boxes {
   margin-top: 0px;
   border: #e8491d solid 4px;
+  padding-top: 20px;
 }
 
 #boxes .box {
