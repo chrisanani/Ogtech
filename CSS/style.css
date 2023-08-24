@@ -109,7 +109,9 @@ header nav {
 #newsletter  {
   padding: 15px;
   color: #ffffff;
-  background:#35424a ;
+  background: #e6e6e6; ;
+  border-bottom: #e8491d solid 4px;
+  border-top: #e8491d solid 4px;
   
 }
 
